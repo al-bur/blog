@@ -22,5 +22,11 @@ jobs:
       - name: Install
         run: npm install
 
-      - name: BuildDeploy
-        run: npm run deploy
+      - name: Build
+        run: npm run build
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.1
+        with:
+          branch: deploy
+          folder: public
