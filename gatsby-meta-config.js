@@ -1,9 +1,9 @@
 module.exports = {
-  title: `Bee starter`,
-  description: `Blog posted about ...`,
+  title: `albur`,
+  description: `앨버의 블로그`,
   author: 'albur',
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
-  siteUrl: `http://albur.github.io`, // Your blog site url
+  introduction: `앨버의 블로그`,
+  siteUrl: 'https://al-bur.github.io/', // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: 'al-bur', // Your GitHub account
@@ -22,7 +22,7 @@ module.exports = {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'jbee',
+    buyMeACoffeeId: '',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
