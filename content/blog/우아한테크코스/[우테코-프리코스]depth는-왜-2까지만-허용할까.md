@@ -1,5 +1,5 @@
 ---
-title: '[우테코-프리코스] depth는 왜 2까지만 허용할까'
+title: '[우테코 프리코스] depth는 왜 2까지만 허용할까'
 date: 2021-12-02
 category: 우아한테크코스
 thumbnail: { thumbnailSrc }
