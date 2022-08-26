@@ -14,7 +14,7 @@ draft: false
 
 찾아보니까 해당 주소에 대한 권한이 없어서 403 에러가 발생한다는 것을 알게되었습니다.
 
-해결방법을 찾아보니 인증을 위해 remote url을 변경해주고 인증을 진행하면 된다고 합니다.
+`해결방법을 찾아보니 인증을 위해 remote url을 변경해주고 인증을 진행`하면 된다고 합니다.
 
 ```bash
 git remote set-url origin https://YOURUSERNAME@github.com/USERNAME/REPOSITORY.git
