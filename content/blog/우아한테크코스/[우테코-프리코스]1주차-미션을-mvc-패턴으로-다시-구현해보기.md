@@ -1,5 +1,5 @@
 ---
-title: '[우테코 프리코스]1주차 미션을 MVC 패턴으로 다시 구현해보기'
+title: '[우테코 프리코스] 1주차 미션을 MVC 패턴으로 다시 구현해보기'
 date: 2021-12-09
 category: 우아한테크코스
 thumbnail: { thumbnailSrc }
