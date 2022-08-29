@@ -66,8 +66,12 @@ draft: false
 
 2. 자동차 미션에서 배웠던 것들을 이번 미션에서 적용한다 (ex. private, insertAdjacent..)
 
-## 미션 PR 링크
+## 미션 작업물 링크
 
 [자동차 경주 게임 1단계 PR](https://github.com/woowacourse/javascript-racingcar/pull/86)
 <br>
 [자동차 경주 게임 2단계 PR](https://github.com/woowacourse/javascript-racingcar/pull/145)
+<br>
+[자동차 경주 게임 1단계 저장소](https://github.com/al-bur/javascript-racingcar/tree/step1)
+<br>
+[자동차 경주 게임 2단계 저장소](https://github.com/al-bur/javascript-racingcar/tree/step1)
