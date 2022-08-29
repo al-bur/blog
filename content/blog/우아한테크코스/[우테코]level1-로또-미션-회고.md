@@ -1,5 +1,5 @@
 ---
-title: '[우테코] level1 로또 미션 회고'
+title: '[우테코] level1 - 로또 미션 회고'
 date: 2022-03-01
 category: 우아한테크코스
 thumbnail: { thumbnailSrc }
