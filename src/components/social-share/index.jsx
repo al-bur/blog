@@ -8,21 +8,21 @@ import './index.scss'
 export const SocialShare = ({ title, author }) => {
   const text = `Recommend on "${title}" written by @${author}`
 
-  const onClickTwitterIcon = e => {
+  const onClickTwitterIcon = (e) => {
     e.preventDefault()
 
     return shareToTwitter(window.location.href, text)
   }
 
-  const onClickFacebookIcon = e => {
+  const onClickFacebookIcon = (e) => {
     e.preventDefault()
     return shareToFacebook(window.location.href, text)
   }
 
   return (
     <div className="social-share">
-      <FacebookIcon onClick={onClickFacebookIcon} />
-      <TwitterIcon onClick={onClickTwitterIcon} />
+      {/* <FacebookIcon onClick={onClickFacebookIcon} />
+      <TwitterIcon onClick={onClickTwitterIcon} /> */}
     </div>
   )
 }
