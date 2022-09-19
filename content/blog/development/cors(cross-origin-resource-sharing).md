@@ -6,19 +6,19 @@ thumbnail: { thumbnailSrc }
 draft: false
 ---
 
-웹 개발을 하다보면, `cors 에러 났다` , `cors 에러 어떻게 해결해?`와 같이 `cors` 라는 것이 정말 많이 언급된다. 오늘은, cors에 대해서 탐구해볼 예정이다.
+웹 개발을 하다보면, `CORS 에러 났다` , `CORS 에러 어떻게 해결해?`와 같이 `CORS` 라는 것이 정말 많이 언급된다. 오늘은, CORS에 대해서 탐구해볼 예정이다.
 
 ## 요약
 
-- cors가 무엇인지 알 수 있다.
-- cors가 왜 등장하게 되었는 지 알 수 있다.
+- CORS가 무엇인지 알 수 있다.
+- CORS가 왜 등장하게 되었는 지 알 수 있다.
 - sop가 무엇인지 알 수 있다.
-- cors가 어떻게 동작하는 지 알 수 있다.
+- CORS가 어떻게 동작하는 지 알 수 있다.
 - simple request에 대해서 알 수 있다.
 - preflighted request에 대해서 알 수 있다.
-- cors 적용 방법에 대해서 알 수 있다.
+- CORS 적용 방법에 대해서 알 수 있다.
 
-## cors 정의
+## CORS 정의
 
 아래는, MDN에서 정의한 CORS이다. `http-header based mechanism` 이라고는 하는데, 이게 정확히 무슨 의미인지는 모르겠다.
 
@@ -40,9 +40,9 @@ mechanism이란 단어의 한국어 뜻이 모르겠어서, mechanism의 정의�
 
 ## 왜 CORS가 등장하게 되었을까?
 
-cors의 역사에 대해 검색을 해보다가, 2005년에서 흔적을 찾아볼 수 있었다. 아래는, 서로 다른 오리진과의 요청을 위한 방법을 제시한 proposal의 [Abstract](https://www.w3.org/TR/2005/NOTE-access-control-20050613/) 부분이다.
+CORS의 역사에 대해 검색을 해보다가, 2005년에서 흔적을 찾아볼 수 있었다. 아래는, 서로 다른 오리진과의 요청을 위한 방법을 제시한 proposal의 [Abstract](https://www.w3.org/TR/2005/NOTE-access-control-20050613/) 부분이다.
 
-![cors 제안서](./images/cors-proposal.png)
+![CORS 제안서](./images/cors-proposal.png)
 
 요약을 해보면 다음과 같다.
 
