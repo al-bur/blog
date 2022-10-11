@@ -1,5 +1,5 @@
 ---
-title: HTTP(HypterText Transfet Protocol)
+title: HTTP(HypterText Transfer Protocol)
 date: 2022-09-23 18:09:91
 category: development
 thumbnail: { thumbnailSrc }
