@@ -1,8 +1,8 @@
 module.exports = {
-  title: `albur`,
-  description: `앨버의 블로그`,
+  title: `love steady`,
+  description: `꾸준히 나아가자`,
   author: 'albur',
-  introduction: `앨버의 블로그`,
+  introduction: `꾸준히 나아가자`,
   siteUrl: 'https://al-bur.github.io/', // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
@@ -29,4 +29,4 @@ module.exports = {
   },
   ga: '0', // Add your google analytics tranking ID
   ad: '', // Add your google adsense publisherId `ca-pub-xxxxxxxxxx`
-}
+};

@@ -1,6 +1,6 @@
 ---
 title: '[typescript] interface vs type alias'
-date: 2022-10-05 09:10:03
+date: 2022-11-25 09:10:03
 category: development
 thumbnail: { thumbnailSrc }
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: rendering을 차단하는 리소스는 무엇일까
-date: 2022-08-20
+date: 2022-09-08
 category: development
 thumbnail: { thumbnailSrc }
 draft: false

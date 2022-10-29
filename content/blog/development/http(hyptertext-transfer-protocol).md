@@ -1,6 +1,6 @@
 ---
 title: HTTP(HypterText Transfer Protocol)
-date: 2022-09-23 18:09:91
+date: 2022-11-02 18:09:91
 category: development
 thumbnail: { thumbnailSrc }
 draft: false
