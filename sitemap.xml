@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://al-bur.github.io/우아한테크코스/[우테코]-내가-꿈꾸는-프로그래머의-삶/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://al-bur.github.io/우아한테크코스/[우테코][팀프로젝트]성능-최적화-여행기(1)-성능-측정/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://al-bur.github.io/development/[typescript]-interface-vs-type/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://al-bur.github.io/development/http(hyptertext-transfer-protocol)/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
