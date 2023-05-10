@@ -9,7 +9,7 @@ module.exports = {
     github: 'al-bur', // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
-    linkedin: ``, // Your LinkedIn account
+    linkedin: `sangmin-song-87b625168`, // Your LinkedIn account
     instagram: ``, // Your Instagram account
   },
   icon: `content/assets/felog.png`, // Add your favicon
@@ -29,4 +29,4 @@ module.exports = {
   },
   ga: '0', // Add your google analytics tranking ID
   ad: '', // Add your google adsense publisherId `ca-pub-xxxxxxxxxx`
-};
+}
